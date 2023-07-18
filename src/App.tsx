@@ -1,4 +1,4 @@
-import React, { FunctionComponent, useState, useEffect } from 'react';
+import React, { FunctionComponent } from 'react';
 import PokemonList from './pages/pokemon-list';
 import PokemonDetail from './pages/pokemon-detail';
 import { BrowserRouter as Router, Link, Route, Switch } from 'react-router-dom';
