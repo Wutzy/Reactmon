@@ -37,8 +37,6 @@ const PokemonForm: FunctionComponent<Props> = ({pokemon}) => {
     return form.types.value.includes(type);
   }
 
-  c
-
   return (
     <form>
       <div className="row">
