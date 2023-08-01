@@ -13,8 +13,7 @@ const App: FunctionComponent = () => {
                 <nav>
                     <div className="nav-wrapper teal">
                         <Link to="/" className="brand-logo center">Pokédex</Link>
-                    </div>
-                    
+                    </div>                    
                 </nav>
                 {/* Le système de gestion des routes de notre application */}
                 <Switch>
