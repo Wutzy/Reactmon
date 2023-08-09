@@ -124,6 +124,17 @@
       "types": [
         "Feu"
       ]
+    },
+    {
+      "id": 1691595004147,
+      "hp": 100,
+      "cp": 10,
+      "name": "Nosferapti",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/041.png",
+      "types": [
+        "Poison",
+        "Vol"
+      ]
     }
   ]
 }
