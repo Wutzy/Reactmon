@@ -15,7 +15,7 @@
     "typescript": "3.6.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start:api": "json-server --watch src/models/db.json --port=3001",
